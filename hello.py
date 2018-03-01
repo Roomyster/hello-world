@@ -22,3 +22,11 @@ x, y = 10, 20
 print(x, y)
 x, y = 21, 11
 print(x, y)
+print("function_name(argument1, argument2)", "thousands of functions")
+print("import math, math.sqrt(##)")
+print("var = input(prompt) becomes str")
+print("help(topic)")
+	# numbers in python
+print("In Python numbers are of 4 types: integer, floating (real), complex, boolean")
+print("int is 4, float is 4.2, complex is 2 +3i")
+
